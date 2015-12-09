@@ -1,0 +1,12 @@
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.exe.config
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.exe
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.pdb
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ResolveAssemblyReference.cache
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ReadFileConsoleApp.exe
+\\student.local\files\home\sys12jah\my documents\visual studio 2010\Projects\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ReadFileConsoleApp.pdb
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.exe.config
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ReadFileConsoleApp.exe
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ReadFileConsoleApp.pdb
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.exe
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\bin\Debug\ReadFileConsoleApp.pdb
+C:\Users\Jonas\workspace\ReadFileConsoleApp\ReadFileConsoleApp\obj\x86\Debug\ReadFileConsoleApp.csprojResolveAssemblyReference.cache
